@@ -1,0 +1,10 @@
+{
+  "name": "ca-car-accessories-pos",
+  "version": "1.0.0",
+  "description": "C.A. Car Accessories POS System",
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "jsonwebtoken": "8.5.1",
+    "@vercel/postgres": "0.5.1"
+  }
+}
